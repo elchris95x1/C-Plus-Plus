@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\lcris\documents\school projects\3rd semester\1-advanced c++(itse-2331-1031)\team26_vfp\vendingmachine.h(63): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\lcris\documents\school projects\3rd semester\1-advanced c++(itse-2331-1031)\team26_vfp\vendingmachine.h(63): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\users\lcris\documents\school projects\3rd semester\1-advanced c++(itse-2331-1031)\team26_vfp\vendingmachine.h(119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lcris\documents\school projects\3rd semester\1-advanced c++(itse-2331-1031)\team26_vfp\vendingmachine.h(98): warning C4101: 'mach': unreferenced local variable
+c:\users\lcris\documents\school projects\3rd semester\1-advanced c++(itse-2331-1031)\team26_vfp\main.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\lcris\documents\school projects\3rd semester\1-advanced c++(itse-2331-1031)\team26_vfp\main.cpp(44): warning C4101: 'ptrIndexCatalog': unreferenced local variable
+c:\users\lcris\documents\school projects\3rd semester\1-advanced c++(itse-2331-1031)\team26_vfp\main.cpp(42): warning C4101: 'tempMachine': unreferenced local variable
+  Team26_VFP.vcxproj -> C:\Users\lcris\Documents\School Projects\3rd Semester\1-Advanced C++(ITSE-2331-1031)\Team26_VFP\Debug\Team26_VFP.exe
