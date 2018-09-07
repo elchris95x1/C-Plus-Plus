@@ -1,0 +1,12 @@
+Elephant,Mammal,The largest and heaviest land animal on earth
+Toucan,Bird,They are brightly marked and have large often-colorful bills
+Polar Bear,Mammal,A carnivorous bear whose native range lies largely within the Arctic Circle
+Gray Wolf,Mammal,A canine native to the wilderness and remote areas of Eurasia and North America
+Green Anaconda,Reptile,The green anaconda also known as the common anaconda and water boa is a non-venomous boa species found in South America
+Komodo Dragon,Reptile,A large species of lizard found in the Indonesian islands of Komodo Rinca Flores Gili Motang and Padar
+Parrot,Bird,It comprises the approximately 10 species of subfamily Psittacinae and 148 species of subfamily Arinae
+Barn Owl,Bird,Specialise in hunting animals on the ground and nearly all of their food consists of small mammals which they locate by sound
+Snapping Turtle,Reptile,A large freshwater turtle of the family Chelydridae
+Emperor Penguin,Bird,The tallest and heaviest of all living penguin species and is endemic to Antarctica
+Loggerhead Sea Turtle,Reptile,An omnivorous feeding mainly on bottom-dwelling invertebrates
+Cheetah,Mammal,A large felid of the subfamily Felinae that occurs mainly in eastern and southern Africa and a few parts of Iran
